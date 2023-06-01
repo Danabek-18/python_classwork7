@@ -1,0 +1,11 @@
+.img{
+    height: 300;
+    width: 200;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+.img2{
+    margin-top: 20;
+
+}
