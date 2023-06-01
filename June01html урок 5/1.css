@@ -1,0 +1,10 @@
+.a{
+    height: 100px ;
+    width: 100px;
+    border: 5px solid red;
+    overflow: scroll;
+}
+.spn{
+    color: blue;
+    size: 45px;
+}
